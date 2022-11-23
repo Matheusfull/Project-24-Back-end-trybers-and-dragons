@@ -11,3 +11,8 @@ export default interface Energy {
 };
 
 console.log(energia); */
+
+/*
+Requisito 3
+Criação de interface padrão que será utilizada nas classe ou na instanciação.
+*/
